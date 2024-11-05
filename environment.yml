@@ -1,0 +1,7 @@
+name: sales_analysis_app
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - streamlit
