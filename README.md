@@ -1,5 +1,7 @@
 # Sales Analysis App
 
+**Note**: This is a demo project meant for a workshop.
+
 This repository contains a Streamlit application for analyzing sales data from an Excel file.
 
 ## Setting up the Conda environment
